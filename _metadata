@@ -1,0 +1,12 @@
+{
+  "author" : "NeoVanAlemania",
+  "description" : "This mod is an addon for the main mod Enhanced Storage.\nIt increases the containers space of all containers even more.",
+  "friendlyName" : "Enhanced Storage [Hoarder Addon]",
+  "includes" : [],
+  "link" : "steam://url/CommunityFilePage/731957126",
+  "name" : "Enhanced Storage [Hoarder Addon]",
+  "requires" : ["Enhanced Storage"],
+  "steamContentId" : "731957126",
+  "tags" : "Crafting and Building|User Interface|Furniture and Objects|In-Game Tools|Mechanics",
+  "version" : "3.2.1"
+}

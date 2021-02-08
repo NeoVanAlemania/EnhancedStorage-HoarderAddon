@@ -1,0 +1,12 @@
+[
+  {
+    "op": "test",
+    "path": "/objectType",
+    "value" : "container"
+  },
+  {
+    "op": "replace",
+    "path": "/slotCount",
+    "value": 72
+  }
+]

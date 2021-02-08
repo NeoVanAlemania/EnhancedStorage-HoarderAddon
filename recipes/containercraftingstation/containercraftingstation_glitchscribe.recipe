@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "enhancedstoragematerial", "count" : 69 }
+  ],
+  "output" : { "item" : "glitchscribe", "count" : 1 },
+  "duration" : 3,
+  "groups" : [ "containercraftingstation", "containercraftingstation_140slots", "containercraftingstation_allslots" ]
+}
