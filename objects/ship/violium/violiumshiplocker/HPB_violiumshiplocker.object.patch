@@ -1,7 +1,3 @@
 [
-  {
-    "op": "replace",
-    "path": "/slotCount",
-    "value": 120
-  }
+  [{"op": "test","path": "/slotCount"},{"op": "replace","path": "/slotCount","value": 120}]
 ]
